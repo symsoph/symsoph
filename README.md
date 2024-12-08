@@ -11,8 +11,8 @@
 
 ## 🛠 Tech Stack
 
-### Languages:
-<div align="text-align: left;">
+<p align="center">
+
   
 <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -23,19 +23,16 @@
   <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   
-</div>
+</p>
 
-### Applications:
-<!-- Applications -->
-
-<div align="text-align: left;">
+<p align="center">
   <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   
-</div>
+</p>
 
 ## 🔍 Preview Projects
 <!-- Computer Graphics Blender GIF -->
