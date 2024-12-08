@@ -1,7 +1,16 @@
-## Hi there 👋
 
+## Hi, I'm Sofia 🌠
+
+I'm a multi-faceted software engineer with extensive experience and passion for full-stack and game development. 
+
+- 👾 I enjoy exploring the intersection of art and technology from machine learning to computer graphics. 
+
+- ☀️ Currently a Computer Science student at UC San Diego, class of 2026
+
+Connect with me!
+
+[![Linkedin Badge](https://img.shields.io/badge/-SofiaNguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia--nguyen/)]([https://www.linkedin.com/in/sofia--nguyen/])
 <!--
-**symsoph/symsoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
