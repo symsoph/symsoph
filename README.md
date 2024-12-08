@@ -1,6 +1,7 @@
 
-# Hi, I'm Sofia 
+# Hi, I'm Sofia!
 
+<!-- banner -->
 
 🌠 I'm a multi-faceted software engineer with extensive experience and passion for full-stack and game development. 
 
@@ -34,23 +35,51 @@
   
 </p>
 
-## 🔍 Preview Projects
+## 🔍 Preview My Projects
 <!-- Computer Graphics Blender GIF -->
-💫
+💫 Computer Graphics
+> I learned the mechanisms and math behind graphics engines and rendered 2D & 3D models with OpenGL, Blender, and Shadertoy. (My profile photo is a scene I modeled and rendered myself!)
+<div align="center" float="left">
+  <img src="hw4_donut.png" width="37%" />
+  <img src="https://github.com/symsoph/symsoph/blob/main/hw4_not_donut.png" width="45%" /> 
+</div>
+<br/>
+
 
 <!-- BTT Project -->
-🤖
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Google</title><path d="M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z"/>
-</svg>
+🤖 Search Query Recommender System
+> A team of AI/ML Fellows and I were tasked to enhance the Google search experience by providing query autocompletion.  We utilized the GPT2 and DistilRoBERTa-base model.  Read more [here](https://github.com/harsita-keerthi/btt-google-2e) !
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/131437586/393536832-a25ba2ad-e68b-458d-81f3-0585e9972338.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM2Mzg5NDcsIm5iZiI6MTczMzYzODY0NywicGF0aCI6Ii8xMzE0Mzc1ODYvMzkzNTM2ODMyLWEyNWJhMmFkLWU2OGItNDU4ZC04MWYzLTA1ODVlOTk3MjMzOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwOFQwNjE3MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZWJmOTUwMDZkMzU5NDg0MDI2MGJiZWE2MWE0ZTU0ZGNmMmQ5MTFjNGFlYmQ4Y2Y4MDczZmNkODNmMGQ3NzI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cPpg8FLPSUAYhNOsBXqFKTXu2Uy6Zajl1eR2JfM13uw" width="50%">
+</div>
+<br/>
 
 <!-- Game -->
-🐭
+🐭 The Great Mouse Performance
+> For [MelonJam 5](https://itch.io/jam/melonjam5), I worked with an engineer and designer to create a one-level 3D rhythm game with Unity, inspired by that piano scene in Tom & Jerry called **The Great Mouse Performance**. Play it [here](https://frndlydragon.itch.io/the-great-mouse-performance) !
+
+<div align="center">
+  <img src="https://img.itch.zone/aW1nLzE3MDIxNjAwLnBuZw==/original/At1hrr.png" width="50%">
+  <br/>
+  <i align="center">Above is the game page art, designed by me!</i>
+</div>
+<br/>
 
 <!-- Full-Stack -->
-😺
+<img src="https://github.com/cse110-sp24-team24/cse110-sp24-team24/blob/main/src/assets/paw_icon_big.png" width="30"> Purrfect Notes
+> For a quarter long project, I was a full-stack developer on a team of 12.  Together, we created a developer desktop app for fellow engineers to create and organize their meeting notes and thoughts in an elegant yet simple way. [Try it out](https://github.com/cse110-sp24-team24/cse110-sp24-team24) ! Or click the image below to watch the demo video !
+
+<div align="center">
+<a href="https://www.youtube.com/embed/PqLQ9NjTBlo?si=GGzfPBMG_p4MFkei">
+ <img src="https://img.youtube.com/vi/PqLQ9NjTBlo/hqdefault.jpg" alt="Watch the video" width="50%" height="50%" border="10" />
+</a>
+</div>
 
 
-Connect with me!
+
+
+## Connect with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-SofiaNguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia--nguyen/)]([https://www.linkedin.com/in/sofia--nguyen/])
 <!--
