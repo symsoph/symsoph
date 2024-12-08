@@ -68,7 +68,9 @@
 
 <!-- Full-Stack -->
 <img src="https://github.com/cse110-sp24-team24/cse110-sp24-team24/blob/main/src/assets/paw_icon_big.png" width="30"> Purrfect Notes
-> For a quarter long project, I was a full-stack developer on a team of 12.  Together, we created a developer desktop app for fellow engineers to create and organize their meeting notes and thoughts in an elegant yet simple way. [Try it out](https://github.com/cse110-sp24-team24/cse110-sp24-team24) ! Or click the image below to watch the demo video !
+> For a quarter long project, I was a full-stack developer on a team of 12.  Together, we created a developer desktop app for fellow engineers to create and organize their meeting notes and thoughts in an elegant yet simple way. [Try it out](https://github.com/cse110-sp24-team24/cse110-sp24-team24) !
+>
+> Or click the **image** 👇 below to watch the demo video !
 
 <div align="center">
 <a href="https://www.youtube.com/embed/PqLQ9NjTBlo?si=GGzfPBMG_p4MFkei">
@@ -79,9 +81,10 @@
 
 
 
-## Connect with me!
+## 🌷🌿 Connect with me! 🌿🌷
 
 [![Linkedin Badge](https://img.shields.io/badge/-SofiaNguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia--nguyen/)]([https://www.linkedin.com/in/sofia--nguyen/])
+
 <!--
 
 Here are some ideas to get you started:
