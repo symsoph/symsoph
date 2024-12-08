@@ -40,8 +40,8 @@
 💫 Computer Graphics
 > I learned the mechanisms and math behind graphics engines and rendered 2D & 3D models with OpenGL, Blender, and Shadertoy. (My profile photo is a scene I modeled and rendered myself!)
 <div align="center" float="left">
-  <img src="hw4_donut.png" width="37%" />
-  <img src="https://github.com/symsoph/symsoph/blob/main/hw4_not_donut.png" width="45%" /> 
+  <img src="/photos/hw4_donut.png" width="37%" />
+  <img src="/photos/hw4_not_donut.png" width="45%" /> 
 </div>
 <br/>
 
@@ -51,7 +51,7 @@
 > A team of AI/ML Fellows and I were tasked to enhance the Google search experience by providing query autocompletion.  We utilized the GPT2 and DistilRoBERTa-base model.  Read more [here](https://github.com/harsita-keerthi/btt-google-2e) !
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/131437586/393536832-a25ba2ad-e68b-458d-81f3-0585e9972338.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM2Mzg5NDcsIm5iZiI6MTczMzYzODY0NywicGF0aCI6Ii8xMzE0Mzc1ODYvMzkzNTM2ODMyLWEyNWJhMmFkLWU2OGItNDU4ZC04MWYzLTA1ODVlOTk3MjMzOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwOFQwNjE3MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZWJmOTUwMDZkMzU5NDg0MDI2MGJiZWE2MWE0ZTU0ZGNmMmQ5MTFjNGFlYmQ4Y2Y4MDczZmNkODNmMGQ3NzI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cPpg8FLPSUAYhNOsBXqFKTXu2Uy6Zajl1eR2JfM13uw" width="50%">
+  <img src="/photos/bbt-google-2e-demo.png" width="50%">
 </div>
 <br/>
 
