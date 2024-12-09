@@ -61,7 +61,7 @@
 <div align="center">
   <img src="/photos/btt-final-unit8.png" width="50%">
   <br/>
-  <i align="center">Above is the game page art, designed by me!</i>
+  <i align="center">A Matplot graph comparing the 4 models.</i>
 </div>
 <br/>
 
