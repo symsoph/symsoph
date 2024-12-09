@@ -59,7 +59,7 @@
 > For my final project for Break Through Tech, I defined an ML problem based on USA Census data and developed 4 models.  The ML problem was to predict if an individual's income was greater than 50k, given a variety of personal data from the USA census.
 
 <div align="center">
-  <img src="/photos/btt-final-unit8" width="50%">
+  <img src="/photos/btt-final-unit8.png" width="50%">
   <br/>
   <i align="center">Above is the game page art, designed by me!</i>
 </div>
