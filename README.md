@@ -95,8 +95,17 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-SofiaNguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia--nguyen/)]([https://www.linkedin.com/in/sofia--nguyen/])
 
-<!--
+<details>
+<summary> Click me for a surprise </summary>
+<br>
+Stats!
 
+  ![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=symsoph\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github)
+
+</details>
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
