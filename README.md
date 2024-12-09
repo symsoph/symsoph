@@ -56,7 +56,7 @@
 
 <!-- BTT Final Assignment - Unit8 -->
 🧮 Predict Individual Income 
-> For my final project for Break Through Tech, I defined an ML problem based on USA Census data and developed 4 models.  The ML problem was to predict if an individual's income was greater than 50k, given a variety of personal data from the USA census.
+> For my final project for Break Through Tech, I defined an ML problem based on USA Census data and developed 4 models.  The ML problem was to predict if an individual's income was greater than 50k, given a variety of personal data from the USA census. View the [notebook](https://github.com/symsoph/predict-income-classification).
 
 <div align="center">
   <img src="/photos/btt-final-unit8.png" width="50%">
