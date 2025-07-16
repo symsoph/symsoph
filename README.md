@@ -45,26 +45,6 @@
 </div>
 <br/>
 
-<!-- BTT Project -->
-🤖 Search Query Recommender System
-> A team of AI/ML Fellows and I were tasked to enhance the Google search experience by providing query autocompletion.  We utilized the GPT2 and DistilRoBERTa-base model.  Read more [here](https://github.com/harsita-keerthi/btt-google-2e) !
-
-<div align="center">
-  <img src="/photos/bbt-google-2e-demo.png" width="50%">
-</div>
-<br/>
-
-<!-- BTT Final Assignment - Unit8 -->
-🧮 Predict Individual Income 
-> For my final project for Break Through Tech, I defined an ML problem based on USA Census data and developed 4 models.  The ML problem was to predict if an individual's income was greater than 50k, given a variety of personal data from the USA census. View the [notebook](https://github.com/symsoph/predict-income-classification).
-
-<div align="center">
-  <img src="/photos/btt-final-unit8.png" width="50%">
-  <br/>
-  <i align="center">A Matplot graph comparing the 4 models.</i>
-</div>
-<br/>
-
 <!-- Game -->
 🐭 The Great Mouse Performance
 > For [MelonJam 5](https://itch.io/jam/melonjam5), I worked with an engineer and designer to create a one-level 3D rhythm game with Unity, inspired by that piano scene in Tom & Jerry called **The Great Mouse Performance**. Play it [here](https://frndlydragon.itch.io/the-great-mouse-performance) !
@@ -73,6 +53,15 @@
   <img src="https://img.itch.zone/aW1nLzE3MDIxNjAwLnBuZw==/original/At1hrr.png" width="50%">
   <br/>
   <i align="center">Above is the game page art, designed by me!</i>
+</div>
+<br/>
+
+<!-- BTT Project -->
+🤖 Search Query Recommender System
+> A team of AI/ML Fellows and I were tasked to enhance the Google search experience by providing query autocompletion.  We utilized the GPT2 and DistilRoBERTa-base model.  Read more [here](https://github.com/harsita-keerthi/btt-google-2e) !
+
+<div align="center">
+  <img src="/photos/bbt-google-2e-demo.png" width="50%">
 </div>
 <br/>
 
