@@ -56,15 +56,6 @@
 </div>
 <br/>
 
-<!-- BTT Project -->
-🤖 Search Query Recommender System
-> A team of AI/ML Fellows and I were tasked to enhance the Google search experience by providing query autocompletion.  We utilized the GPT2 and DistilRoBERTa-base model.  Read more [here](https://github.com/harsita-keerthi/btt-google-2e) !
-
-<div align="center">
-  <img src="/photos/bbt-google-2e-demo.png" width="50%">
-</div>
-<br/>
-
 <!-- Full-Stack -->
 <img src="https://github.com/cse110-sp24-team24/cse110-sp24-team24/blob/main/src/assets/paw_icon_big.png" width="30"> Purrfect Notes
 > For a quarter long project, I was a full-stack developer on a team of 12.  Together, we created a developer desktop app for fellow engineers to create and organize their meeting notes and thoughts in an elegant yet simple way. [Try it out](https://github.com/cse110-sp24-team24/cse110-sp24-team24) !
@@ -77,7 +68,14 @@
 </a>
 </div>
 
+<!-- BTT Project -->
+🤖 Search Query Recommender System
+> A team of AI/ML Fellows and I were tasked to enhance the Google search experience by providing query autocompletion.  We utilized the GPT2 and DistilRoBERTa-base model.  Read more [here](https://github.com/harsita-keerthi/btt-google-2e) !
 
+<div align="center">
+  <img src="/photos/bbt-google-2e-demo.png" width="50%">
+</div>
+<br/>
 
 
 ## 🌷🌿 Connect with me! 🌿🌷
