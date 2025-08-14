@@ -5,9 +5,7 @@
 
 🌠 I'm a multi-faceted software engineer with extensive experience and passion for full-stack and game development. 
 
-👾 I enjoy exploring the intersection of art and technology from machine learning to computer graphics. 
-
-🌊 Currently a Computer Science student at UC San Diego, class of 2026. 
+🌊 I enjoy exploring the intersection of art and technology from machine learning to computer graphics. 
 
 
 ## 🛠 Tech Stack
